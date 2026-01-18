@@ -102,7 +102,7 @@ The dataset contains daily sales records with the following columns:
 ## ▶️ How to Run the Project
 
 ```bash
-git clone https://github.com/your-username/EDA-Shoes-Sales.git
+git clone https://github.com/EDA-Shoes-Sales-Analysis-Mean-Median-Mode-Percentile.git
 cd EDA-Shoes-Sales
 pip install -r requirements.txt
 jupyter notebook
