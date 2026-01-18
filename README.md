@@ -61,6 +61,7 @@ The dataset contains daily sales records with the following columns:
 📸 **Sales Before Outlier Handling**
 ![Before Outlier](images/nike_adidas_before_outlier.png)
 ![Before Outlier](images/nike_adidas_before_outlier_1.png)
+![Before Outlier](images/outlier_detection_2.png)
 
 ---
 
